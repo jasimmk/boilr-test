@@ -1,0 +1,10 @@
+{
+    "Name": "test-project",
+    "Author": "Jasim Muhammed",
+    "Email": "spam@jasimmk.com",
+    "License": [
+        "MIT", 
+        "GNU GPL v3.0", 
+        "Apache Software License 2.0"
+    ]
+}

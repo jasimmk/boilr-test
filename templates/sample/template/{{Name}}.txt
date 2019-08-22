@@ -1,0 +1,3 @@
+Author: {{Author}}
+Licence: {{License}}
+Email: {{Email}}
